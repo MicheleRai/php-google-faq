@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    max-width: 1000px;
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
+    padding: 0 2rem;
+}
+h1{
+    text-align: center;
+}
+p{
+    padding-top: 20px;
+    line-height: 1.714;
+}
+h2{
+    padding-top: 20px;
+    color: rgb(58, 57, 57);
+}
+li{
+    margin-left: 1rem;
+    line-height: 1.714;
+
+}
